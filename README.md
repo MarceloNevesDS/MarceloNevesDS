@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelonevesds&label=Profile%20views&color=0e75b6&style=flat" alt="marcelonevesds" /> </p>
 
-- 🔭 Estou trabalhando atualmente em **Banco do Brasil**
+- 🔭 Estou trabalhando atualmente em **Banco do Brasil S/A**
 
-- 🌱 Estou estudando atualmente **Estatistica para Ciencia de dados**
+- 🌱 Estou estudando atualmente **Estatística para Ciencia de dados**
 
 - 👯 Procuro colaborar com **Projetos em Ciencia de Dados**
 
